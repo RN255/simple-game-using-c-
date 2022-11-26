@@ -1,3 +1,14 @@
-# simple-game-using-c#
-- A simple game using c#
-- I tried to use all of the basic features of c# 
+## Project Name: Simple Game Using C#
+A simple game that uses the various features of C#.
+
+## Motivation
+It wanted to create something that would use the various features of C#, a small game allowed me to do that.
+
+## Tech used
+- C#
+
+## Project features
+- C# game
+
+## Lessons learnt
+- C# fundamentals
